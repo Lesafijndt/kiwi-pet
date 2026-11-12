@@ -1,0 +1,15 @@
+{
+  "source_base": "Documents/Codex",
+  "files": [
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\spritesheet.png",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\contact-sheet.png",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\four-stills.png",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\kiwi.gif",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\kiwi.mp4",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\work\\kiwi\\finish_previews.py",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\outputs\\kiwi\\validation.json",
+    "2026-11-08\\pets-plugin-work-pets-openai-curated\\work\\kiwi\\final\\validation-extended.json",
+    "2026-11-08/pets-plugin-work-pets-openai-curated/work/kiwi/pet_request.json"
+  ],
+  "staging": "sanitized archive; originals unchanged"
+}
